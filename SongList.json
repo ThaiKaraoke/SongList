@@ -298,5 +298,15 @@
     "Id": 105156916884689,
     "Image": "rbxassetid://82572485593684",
     "TrackId": "5IjSQa0GXzI2pNSciJXWWv"
+  },
+   "Ride": {
+    "Id": 17007807877,
+    "Image": "rbxassetid://114933902137010",
+    "TrackId": "37HhnXqIRFSSJXWsysl6B7"
+  },
+   "Tip Toe": {
+    "Id": 17007926529,
+    "Image": "rbxassetid://114933902137010",
+    "TrackId": "0MJ5wKsPEeihONNfugHGy7"
   }
 }
