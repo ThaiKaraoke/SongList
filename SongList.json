@@ -379,11 +379,6 @@
    "Image": "",
    "TrackId": "3vfwUrq22haMmIJyyyI7Hq"
   },
-  "Sad Movie": {
-   "Id": 105451900183471,
-   "Image": "",
-   "TrackId": "1nenRWbemVvsxnxg296eFB"
-  },
   "สองรัก": {
    "Id": 100699837389572,
    "Image": "",
@@ -441,7 +436,7 @@
   },
   "อ้าว": {
    "Id": 84374840308418,
-   "Image": "",
+   "Image": "rbxassetid://116512039878923",
    "TrackId": "6Q4dwY213SqALYmAcRJtVL"
   },
   "ฤดูร้อน": {
@@ -469,25 +464,10 @@
    "Image": "",
    "TrackId": "52h8p62Jx8KzQynM6heq7n"
   },
-  "ภาพถ่ายวันวาน": {
-   "Id": 115743144503939,
-   "Image": "",
-   "TrackId": "6LwtjDDSNssJNMTH8btwOo"
-  },
   "เผื่อวันไหนเธอจะกลับมา": {
    "Id": 92027903995713,
    "Image": "",
    "TrackId": "43eS61ezviPc61XDu6tRYR"
-  },
-  "โต๊ะริม": {
-   "Id": 106317426617815,
-   "Image": "",
-   "TrackId": "1WxjAWMYO1niMIB5ascmvG"
-  },
-  "ที่รักใจเย็น": {
-   "Id": 128355228720195,
-   "Image": "",
-   "TrackId": "6rgF7lJWhf0jR5ZEJk3cY5"
   },
   "รักแค่ไหน": {
    "Id": 117632773321115,
@@ -583,11 +563,6 @@
    "Id": 133612649286838,
    "Image": "",
    "TrackId": "2X45nVBeYzmDlrXji9Av0Q"
-  },
-  "เรารักแม่": {
-   "Id": 72501186017066,
-   "Image": "",
-   "TrackId": "0Msg7OiY7nJlmdNkcAAeKJ"
   },
   "เรื่องที่ขอ": {
    "Id": 94222009227445,
@@ -693,11 +668,6 @@
    "Id": 74612126600804,
    "Image": "",
    "TrackId": "0QEQhT1kUxAmoCtug66anM"
-  },
-  "สายน้ำผึ้ง": {
-   "Id": 94187414702965,
-   "Image": "",
-   "TrackId": "2lccEMkltz7nu8GglbQjND"
   },
   "ดาวมหาลัย": {
    "Id": 127719861629069,
