@@ -854,25 +854,10 @@
    "Image": "",
    "TrackId": "28uUXmHx13AZ1nkl57vCwN"
   },
-  "ยาพิษ": {
-   "Id": 115687514119370,
-   "Image": "",
-   "TrackId": "3JyJkf66enenD6HDSUxWgI"
-  },
-  "ไม่มีเหมือนเขา": {
-   "Id": 92732953782025,
-   "Image": "",
-   "TrackId": "0YhNOhAPdrt6GNUWwXyUq3"
-  },
   "ไก๊ ไก่": {
    "Id": 119096579836598,
    "Image": "",
    "TrackId": "5oWpk2bkGehtUt8Evsg820"
-  },
-  "แลกอะไรก็ได้": {
-   "Id": 140092701872531,
-   "Image": "",
-   "TrackId": "4lYo2OzvdN3WCy7FQhHIv5"
   },
   "ฤดูกาล": {
    "Id": 122974421413807,
@@ -884,7 +869,7 @@
    "Image": "",
    "TrackId": "6sDdUvLVZrK8SwQpwYy631"
   },
-  "หากจะเพียงขอ(Sincare)": {
+  "หากจะเพียงขอ": {
    "Id": 139305860992730,
    "Image": "",
    "TrackId": "3v5g7khNHS9726iyuI1iUs"
@@ -969,16 +954,6 @@
    "Image": "",
    "TrackId": "4CdW5KKyIjrpx6Hz981dUt"
   },
-  "I JUST WANNA PEN FAN YOU DAI BOR": {
-   "Id": 140361865711802,
-   "Image": "",
-   "TrackId": "6scZwksJmvbwBzlqgdqfvL"
-  },
-  "If You": {
-   "Id": 70572985200812,
-   "Image": "",
-   "TrackId": "4s7oibu54IVPJo66oIe68r"
-  },
   "นักเลงเก่า": {
    "Id": 117019227411526,
    "Image": "",
@@ -1029,11 +1004,6 @@
    "Image": "",
    "TrackId": "0h5J891lpMTlU4o6oPg3VJ"
   },
-  "ยังโสด": {
-   "Id": 113250618869942,
-   "Image": "",
-   "TrackId": "1tipqa1iWzb2av4dgVmiKR"
-  },
   "เล่นของสูง": {
    "Id": 128642810430231,
    "Image": "",
@@ -1054,20 +1024,10 @@
    "Image": "",
    "TrackId": "6u08YmldVXL6dKiIwGbcox"
   },
-  "เท่ไป": {
-   "Id": 88077371704095,
-   "Image": "",
-   "TrackId": "27iUCXDMHJOHd4jkwFtSgi"
-  },
   "Proud": {
    "Id": 87978533590747,
    "Image": "",
    "TrackId": "2MuJCv3nCgHYlgOrAvCAT6"
-  },
-  "Sad Movie": {
-   "Id": 89171214792362,
-   "Image": "",
-   "TrackId": "1nenRWbemVvsxnxg296eFB"
   },
   "ขาหมู": {
    "Id": 122148305936836,
@@ -1098,10 +1058,5 @@
    "Id": 77095607946021,
    "Image": "",
    "TrackId": "3QdBjjzP3JuBnchPSPOMDC"
-  },
-  "คุณและคุณเท่านั้น": {
-   "Id": 84243923373219,
-   "Image": "",
-   "TrackId": "1xMBBcYsn9lVvSTFtF0eKl"
   }
 }
