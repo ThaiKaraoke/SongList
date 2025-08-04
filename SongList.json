@@ -769,11 +769,6 @@
    "Image": "rbxassetid://88244613625462",
    "TrackId": "5GUoOTq7hI3UoAhg9MtSzS"
   },
-  "เลิกกั๊กแล้วรักก่อน": {
-   "Id": 111146144969623,
-   "Image": "rbxassetid://101393628852337",
-   "TrackId": "1DO4LZtfeakgZ14hvGmk4x"
-  },
   "อย่าบอก": {
    "Id": 130510123972633,
    "Image": "rbxassetid://126992906820634",
@@ -1218,5 +1213,75 @@
    "Id": 132382530621024,
    "Image": "rbxassetid://106395172253007",
    "TrackId": "6oPqaiLKPdQj2ecBpMgM07"
+  },
+  "น้อง": {
+   "Id": 103311943941179,
+   "Image": "",
+   "TrackId": "2EjSOHwyqUXjS9PB1vXjLu"
+  },
+  "มากกว่ารัก": {
+   "Id": 108289078166026,
+   "Image": "",
+   "TrackId": "6Xx3ZbP7W27hO4LtZAG4Hb"
+  },
+  "แผลเป็น": {
+   "Id": 76726986717566,
+   "Image": "",
+   "TrackId": "4hqjc4QFwzP0PfdvaakIH5"
+  },
+  "Wish": {
+   "Id": 140561519580811,
+   "Image": "",
+   "TrackId": "1ecud9LC1clhcuhjLIyyMB"
+  },
+  "ความรัก": {
+   "Id": 114318800124651,
+   "Image": "",
+   "TrackId": "5djtarcayWp2DK6DQ1Z9P6"
+  },
+  "คำตอบสุดท้าย": {
+   "Id": 132447217204959,
+   "Image": "",
+   "TrackId": "6d9rWFahtOYiNblK9dvqK2"
+  },
+  "น้ำลาย ": {
+   "Id": 131636473460421,
+   "Image": "",
+   "TrackId": "6oBGKAEqVgvljmFMwMUAXX"
+  },
+  "ใจเป็นนาย กายเป็นบ่าว": {
+   "Id": 134885726356333,
+   "Image": "",
+   "TrackId": "0x5JCTghFaNoVyfyxYyfnB"
+  },
+  "Yours Ever": {
+   "Id": 125800892523970,
+   "Image": "",
+   "TrackId": "5W2IYA5Su42XiI90GDdscj"
+  },
+  "ที่ผ่านมาขอบใจจริงๆ": {
+   "Id": 123039965111595,
+   "Image": "",
+   "TrackId": "0Vx23Np7HAjaQIttqOAUPR"
+  },
+  "เธอ": {
+   "Id": 101762352755875,
+   "Image": "",
+   "TrackId": "3HlTt5df6OrvtwTvO6iFla"
+  },
+  "ดูดี": {
+   "Id": 88841369088874,
+   "Image": "",
+   "TrackId": "7oTnTfFLo4t1xbPb009oBI"
+  },
+  "ฉันก่อนเจอเธอ": {
+   "Id": 132704855215807,
+   "Image": "",
+   "TrackId": "52iD6HTHA5y3Bvkzpb4Eyz"
+  },
+  "เอาเป็นว่าฉันรักใครไม่เป็น": {
+   "Id": 122666878510283,
+   "Image": "",
+   "TrackId": "0DLs7wKjVzMxsA7YelQby4"
   }
 }
